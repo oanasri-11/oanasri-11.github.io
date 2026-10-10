@@ -7,3 +7,4 @@ permalink: /posts/python-is-an-ugly-language/
 ---
 
 Thoughts and reflections on Python syntax, paradigms, and design choices.
+
